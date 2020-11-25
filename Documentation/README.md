@@ -1,26 +1,4 @@
-# Project Title
+# O, Tannenbaum
 
-*About the project goes here*
+This is a simple route consisting of a single loop track. Services are set to spawn at regular intervals. As the focus is on the trains changing the signal aspects/tree lights the timetable will lead to delays, but sit back and relax only worrying about getting the trains around the base back into the tree again.
 
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
-
-## Simulation
-
-*This section describes the timetable*
-
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
-
-## Development
-
-*This section is optional though highly recommended*
-
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
