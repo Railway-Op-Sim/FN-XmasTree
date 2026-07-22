@@ -1,0 +1,16 @@
+rly_file = "XmasTree.rly"
+ttb_files = [ "Xmas_Tree.ttb",]
+ssn_files = [ "XmasTree.ssn",]
+img_files = [ "XmasTree.bmp",]
+doc_files = [ "README.md",]
+release_date = "2020-11-25"
+version = "1.0.0"
+country_code = "FN"
+factual = false
+description = "A fun map utilising signals as Christmas tree lights."
+year = 2020
+display_name = "Xmas Tree"
+name = "Xmas Tree"
+signal_position = "left"
+author = "Krizar"
+contributors = []
